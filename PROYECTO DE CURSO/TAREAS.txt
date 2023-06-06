@@ -1,0 +1,23 @@
+1. HACER UN LOGIN
+2. CREAR UN USUARIO
+3. MENU CON OPCIONES
+4. PAGINA DE BIENVENIDO QUE INCLUYA ACCESOS FACILES PARA CREAR UNA EMPRESA Y 
+   LOS DIFERENTES ESTADOS
+	-Balance General
+		-El nombre de la empresa- titulo del estado financiero
+		-El tiempo registrado generalmente, un mes o un año
+		-Margenes que deben conservar cada grupo y clasificacion
+		-Cortes de subtotales y totales claramente indicados
+		-tipo de moneda
+		-Todos los activos
+			-CIRCULANTE O CORRIENTE
+			-NO CIRCULANTE O NO CORRIENTE
+		-Todos los Pasivos
+			-Pasivo Circulante o a corto plazo
+			-Obligaciones a largo plazo
+		-El capital contable
+			- capital contribuido
+			- capital ganado
+		-firmas
+	
+5. 
